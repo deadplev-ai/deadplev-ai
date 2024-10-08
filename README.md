@@ -12,3 +12,7 @@ Badges
 Animations
 
 ## My Languages
+
+https://jonahlawrence.hashnode.dev/create-and-elevate-your-github-profile-readme
+
+Notes for later :)
