@@ -11,4 +11,5 @@ LINKEDIN, +Stats (Use readme gen)
 
 ## My Languages
 
-https://img.shields.io/badge/Test%20message-8A2BE2
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
