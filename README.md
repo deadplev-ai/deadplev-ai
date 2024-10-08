@@ -8,3 +8,7 @@
 <br />
 ### Connect with me:
 LINKEDIN, +Stats (Use readme gen)
+
+## My Languages
+
+https://img.shields.io/badge/Test%20message-8A2BE2
