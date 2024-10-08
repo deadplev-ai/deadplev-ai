@@ -8,8 +8,7 @@
 <br />
 ### Connect with me:
 LINKEDIN, +Stats (Use readme gen)
+Badges
+Animations
 
 ## My Languages
-
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
