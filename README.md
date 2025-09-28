@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">==========================================<br><br>🤖 I am currently working on automating my digital tasks<br>🔐 I specialise in LLM AI Technology and Linux Server Security<br>📫 How to reach me: ethanwsanders@protonmail.com<br><br>==========================================</p>
+<p align="left">==========================================<br><br>🤖 I am currently working on automating my digital tasks<br>🔐 I specialise in LLM AI Technology and Linux Server Security<br>📫 How to reach me: [TEMPORARILY REDACTED]<br><br>==========================================</p>
 
 ###
 
